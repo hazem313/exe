@@ -18,6 +18,9 @@ pip install PyInstaller
 
 Save your Python script as `your_script_name.py`. Then, open a command prompt or terminal window and navigate to the directory where your Python script is located. Run the following command to create an executable from your Python script:
 
+~~~bash
+pyinstaller --onefile your_script_name.py
+~~~
 
 Replace `your_script_name.py` with the name of your Python script.
 
