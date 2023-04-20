@@ -1,4 +1,4 @@
-# Create EXE 
+# Create EXE from Python file
 Create exe from pyton file
 
 ## Description
