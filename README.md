@@ -4,6 +4,7 @@ Create exe from pyton file
 ## Description
 
 this instructions allow you to create a exe file from a python file
+note: make sure to change directory to where you want exe created
 
 ## Installation
 
